@@ -1,0 +1,2 @@
+select * from classmates;
+select * from global_grants limit 10;
